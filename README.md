@@ -565,7 +565,7 @@ Test Standartları:
 ### Lisans Bilgileri
 ```
 Lisans: MIT License
-Copyright: 2024 Muhammed KÖSE
+Copyright: 2025 Muhammed KÖSE
 Versiyon: 1.0.0
 
 MIT License Özellikleri:
