@@ -565,7 +565,7 @@ Test Standartları:
 ### Lisans Bilgileri
 ```
 Lisans: MIT License
-Copyright: 2024 Hyperloop Team
+Copyright: 2024 Muhammed KÖSE
 Versiyon: 1.0.0
 
 MIT License Özellikleri:
@@ -593,14 +593,9 @@ Bu yazılım "olduğu gibi" sağlanır ve:
 Teknik Destek:
 - GitHub Issues
 - GitHub Discussions
-- Email: support@hyperloop.example
+- Email: kosemuhammet545@gmail.com
 - Documentation: docs/
 
-Topluluk:
-- Forum: forum.hyperloop.example
-- Discord: discord.gg/hyperloop
-- Twitter: @hyperloop_team
-- Blog: blog.hyperloop.example
 ```
 
 ### Sık Sorulan Sorular
